@@ -1,0 +1,24 @@
+{
+  "name": "au4-test-smartcontact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehmanm/au4-test-smartcontact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehmanm/au4-test-smartcontact/issues"
+  },
+  "homepage": "https://github.com/rehmanm/au4-test-smartcontact#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  }
+}
